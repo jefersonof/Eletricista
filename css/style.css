@@ -787,6 +787,10 @@ a, button, input, textarea {
   color: #3d3d3d;
 }
 
+.simple-text.color-8 {
+  color: #000000;
+}
+
 .simple-text.font-2 {
   font-family: 'Raleway';
   font-weight: 500;
