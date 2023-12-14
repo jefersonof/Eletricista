@@ -1,15 +1,16 @@
-Montagem de padrão (elétrica padrão Celesc)
+1 - Montagem de padrão (elétrica padrão Celesc)
 Regularização energia
-Regularização de elétrica
+2 - Regularização de elétrica
 Regularização de luz 
-Instalação elétrica residencial
-Eletricista residencial
-Quadro de medição (quadro de comando pra prédio, pra casa)
-Quadro de disjuntor residencial e predial
-Troca de poste Celesc 
-Melhoria de carga elétrica 
-Infraestrutura elétrica residencial e predial
-Condomínio!
+3 - Instalação elétrica residencial
+4 - Eletricista residencial
+5 - Quadro de medição (quadro de comando pra prédio, pra casa)
+6 - Quadro de disjuntor residencial
+7 - Quadro de disjuntor predial
+8 - Troca de poste Celesc 
+9 - Melhoria de carga elétrica 
+10 - Infraestrutura elétrica residencial
+11 - Infraestrutura elétrica predial
 Refletir residencial e condomínio 
 Iluminação de jardim
 Iluminação piscina residencial e condomínio 
@@ -26,7 +27,7 @@ quem somos
 
 Com mais de 10 anos de experiência, realizamos instalação elétrica nos padrões Celesc Monofásico, Bifásico e Trifásico. 
 
-Com mais de 20 anos de experiência, a xxx é uma empresa especializada na prestação de serviços de instalação e manutenção elétrica, instalação e
+Com mais de 20 anos de experiência, a xxx é uma empresa especializada na prestação de serviços de instalação e manutenção elétrica, Troca de poste padrão Celesc, iluminação de jardim entre outros serviços elétrico.
 Temos como maior compromisso a satisfação plena dos nossos clientes em relação aos nossos serviços.
 
 A KFS Manutenção Residencial é uma empresa dedicada a proporcionar soluções completas e criativas para as necessidades de manutenção do seu lar. Com mais de 10 anos de experiência no ramo e mais de 100 serviços de manutenção residencial prestados, somos especialistas em oferecer um atendimento personalizado e de qualidade, garantindo a satisfação dos nossos clientes. Desde serviços elétricos até tarefas de marido de aluguel, estamos prontos para oferecer as melhores ideias e soluções para tornar a sua casa um lugar funcional, seguro e confortável. Conte conosco para cuidar do seu lar como se fosse o nosso próprio!
