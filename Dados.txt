@@ -1,20 +1,20 @@
-1 - Montagem de padrão (elétrica padrão Celesc)
+ok - 1 - Montagem de padrão (elétrica padrão Celesc)
 Regularização energia
-2 - Regularização de elétrica
+ok -2 - Regularização de elétrica
 Regularização de luz 
-3 - Instalação elétrica residencial
-4 - Eletricista residencial
-5 - Quadro de medição (quadro de comando pra prédio, pra casa)
-6 - Quadro de disjuntor residencial
-7 - Quadro de disjuntor predial
-8 - Troca de poste Celesc 
-9 - Melhoria de carga elétrica 
-10 - Infraestrutura elétrica residencial
-11 - Infraestrutura elétrica predial
-Refletir residencial e condomínio 
-Iluminação de jardim
-Iluminação piscina residencial e condomínio 
-Troca de post Celesc
+OK -3 - Instalação elétrica residencial
+OK- 4 - Eletricista residencial
+ok -5 - Quadro de medição (quadro de comando pra prédio, pra casa)
+ok - 6 - Quadro de disjuntor residencial
+ok - 7 - Quadro de disjuntor predial
+ok - 8 - Troca de poste Celesc 
+ok -9 - Melhoria de carga elétrica 
+ok -10 - Infraestrutura elétrica residencial
+ok -11 - Infraestrutura elétrica predial
+?Refletir residencial e condomínio 
+ok - 12- Iluminação de jardim
+ok -13 - Iluminação piscina residencial e condomínio 
+OK - Troca de post Celesc
 Instalação de poste Celesc
 
 
@@ -49,4 +49,10 @@ capacitados para analisar, revisar e trocar quadros de disjutores, podendo ser d
 Somos especializados em instalações, reparos e manutenção elétrica residencial. Desde a instalação de novos pontos de energia até a resolução de problemas de curto-circuito, nossa equipe qualificada e experiente garante um serviço seguro e eficiente.
 
 _________________________________
+
+iluminação de piscinas
+
+Com mais de 20 anos de experiência no ramo, contamos com profissionais capacitados para garantir uma iluminação segura e os efeitos esperados. para satisfação do nosso cliente.
+
+Contamos com profissionais capacitados para garantir uma iluminação segura e os efeitos esperados
 
