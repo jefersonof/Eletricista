@@ -24,8 +24,8 @@
     <link href="css/navigation.css" rel="stylesheet" type="text/css" />    
     <link href="css/style.css" rel="stylesheet" type="text/css" />
 
-    <link rel="shortcut icon" href="img/favicon.ico" />
-  	<title>Elecista & Repairing</title>
+    <link rel="shortcut icon" href="img/favicon-e.ico" />
+  	<title>DS Instalações Elétricas</title>
 </head>
 <body>
 
@@ -33,7 +33,7 @@
     <header class="tt-header-1">
         <div class="container">
             <div class="top-inner">
-                <a class="logo" href="index.html"><img src="img/logo.png" alt=""></a>
+                <a class="logo" href="index.html"><img src="img/meu-logo.png" alt=""></a>
             </div>
             <button class="cmn-toggle-switch"><span></span></button>
             <div class="toggle-block">
@@ -83,7 +83,7 @@
                     <div class="container">
                         <div class="top-info">
                             <i class="fa fa-phone"></i>
-                            <a href="tel:18004567890">+ (48) 99999-9999</a> 
+                             (48) 99841-4008 
                         </div>                        
                         <div class="top-info">
                             <i class="fa fa-envelope-o"></i>
@@ -281,8 +281,8 @@
             <div class="row">
                 <div class="col-sm-6">
                     <div class="simple-text">
-                        <h3>Elétrica Douglas Santos</h3>
-                        <p>A empresa <i><b>Elétrica Douglas Santo</b></i>  é uma referência no setor, acumulando mais de 20 anos de experiência em instalação e manutenção elétrica, troca de poste padrão Celesc, iluminação de jardim entre outros serviços elétricos.</p><p>Nosso compromisso é oferecer serviços de alta qualidade, segurança e eficiência, contribuindo para a confiabilidade e excelência no fornecimento de energia elétrica.</p><p>Contamos com uma equipe capacitada e tecnologia avançada para atender às demandas específicas, garantindo a satisfação de nossos clientes e a integridade do sistema elétrico. </p> <p>Cada projeto é conduzido em conformidade com as normas e regulamentações elétricas vigentes, garantindo que o seu lar seja um ambiente seguro e protegido. </p>                
+                        <h3>DS Instalações Elétricas</h3>
+                        <p>A empresa <i><b>DS Instalações Elétricas</b></i>  é uma referência no setor, acumulando mais de 20 anos de experiência em instalação e manutenção elétrica, troca de poste padrão Celesc, iluminação de jardim entre outros serviços elétricos.</p><p>Nosso compromisso é oferecer serviços de alta qualidade, segurança e eficiência, contribuindo para a confiabilidade e excelência no fornecimento de energia elétrica.</p><p>Contamos com uma equipe capacitada e tecnologia avançada para atender às demandas específicas, garantindo a satisfação de nossos clientes e a integridade do sistema elétrico. </p> <p>Cada projeto é conduzido em conformidade com as normas e regulamentações elétricas vigentes, garantindo que o seu lar seja um ambiente seguro e protegido. </p>                
                     </div>
                     <!-- PASSA DO LAYOUT DA PAGINA -->
                     <!--<div class="empty-space marg-lg-b30"></div>
@@ -393,7 +393,7 @@
                         <div class="col-md-6">
                             <h3 class="tt-block-title type-2 color-2 c-h3"><i class="fa fa-calendar" aria-hidden="true"></i><span>Entrar em contato</span></h3>
                             <div class="empty-space marg-lg-b45 marg-md-b30"></div>
-                            <form class="tt-shedule-form" id="tt-shedule-form">
+                            <form action="envia-contato.php" method="post" class="tt-shedule-form" >
                                 <div class="row">
                                     <div class="col-sm-12">
                                         <input class="c-input" type="text" placeholder="Nome" name="nome" required>
@@ -409,12 +409,14 @@
                                 </div>
                                 <div class="row">
                                     <div class="col-sm-12">
-                                        <textarea maxlength="5000" data-msg-required="Insira uma mensagem." rows="4" class="form-control" placeholder="Message" name="message" id="message" required></textarea>
+                                        <textarea maxlength="5000" data-msg-required="Insira uma mensagem." rows="4" class="form-control" placeholder="Message" name="msg" id="message" required></textarea>
                                     </div>                                   
                                 </div>
                                 <div class="empty-space marg-lg-b10 marg-md-b10 marg-xs-b10"></div>
                                 <div class="c-btn type-1 size-3 font-3 color-4">
                                     <input type="submit" value="Enviar">
+                                    <input type="hidden" name="envia" value="ok">
+                                    <input type="hidden" name="pagina" value="Pagina Home">
                                 </div>
                                 <span class="tt-request-success"></span>                     
                             </form>
@@ -434,9 +436,9 @@
                 <div class="tt-banner">
                     <img class="tt-banner-img" src="img/banner/banner.png" height="134" width="144" alt="">
                     <div class="tt-banner-info">
-                        <h4 class="tt-banner-title">24/7 Emergência ligue : <a href="tel:51 992332502">51 992332502</a></h4>
+                        <h4 class="tt-banner-title">24/7 Emergência ligue : (48) 99841-4008</h4>
                         <div class="simple-text size-3 color-3">
-                            <p>Manutenção Preventiva, corretiva e diagnóstico de Problemas elétricos.</p>
+                            <p>Instalação e Manutenção | Projeto e Execução | Padrão CELESC</p>
                         </div>
                     </div>
                     <div class="tt-banner-link">
@@ -455,12 +457,12 @@
             <div class="row">
                 <div class="col-sm-6 col-md-3">
                     <a class="tt-footer-logo" href="#">
-                        <img class="img-responsive" src="img/f_logo.png" height="71" width="270" alt="">
+                        <img class="img-responsive" src="img/meu-logo.png" height="52" width="270" alt="">
                     </a>
                     <div class="empty-space marg-lg-b25"></div>
 
                     <div class="simple-text color-4">
-                        <p>A empresa <i><b>Elétrica Douglas Santo</b></i>  é uma referência no setor, acumulando mais de 20 anos de experiência em instalação e manutenção elétrica, troca de poste padrão Celesc, iluminação de jardim entre outros serviços elétricos.</p>
+                        <p>A empresa <i><b>DS Instalações Elétricas</b></i>  é uma referência no setor, acumulando mais de 20 anos de experiência em instalação e manutenção elétrica, troca de poste padrão Celesc, iluminação de jardim entre outros serviços elétricos.</p>
                         <p><a href="#">Leia mais ...</a></p>
                     </div>
                     <div class="empty-space marg-md-b30"></div>
@@ -532,7 +534,7 @@
             <div class="container">
                 <div class="row">
                     <div class="col-sm-6">
-                        <div class="tt-footer-copy">Copyright © Elétrica Douglas Santos 2023.</div>
+                        <div class="tt-footer-copy">Copyright © DS Instalações Elétricas 2023.</div>
                     </div>
                     <div class="col-sm-6">
                         <div class="tt-footer-author">Created by: <a href="#">Jeferson Forte</a> & <a href="#">Felipe Lima</a></div>
