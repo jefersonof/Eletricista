@@ -129,7 +129,7 @@ if ( isset( $_POST['envia'] ) && $_POST['envia'] == 'ok' )
 			  </html>';
 
 			echo "<META HTTP-EQUIV='REFRESH' CONTENT=\"0;
-				URL='https://dsinstalacoeseletricas.com.br/contact'\">";
+				URL='https://dsinstalacoeseletricas.com.br/contact.html'\">";
 	}
 
 }
