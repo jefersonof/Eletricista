@@ -104,7 +104,7 @@ if ( isset( $_POST['envia'] ) && $_POST['envia'] == 'ok' )
 	";
 
 	// envia o e-mail
-	$enviaEmail = enviaEmail($nome,$email,'eu@felipelima.com.br',$msg,$assunto);
+	$enviaEmail = enviaEmail($nome,$email,'contato@dsinstalacoeseletricas.com.br',$msg,$assunto);
 
 	// testa se enviou o email
 	if ( $enviaEmail )
@@ -117,7 +117,7 @@ if ( isset( $_POST['envia'] ) && $_POST['envia'] == 'ok' )
 			  </html>';
 
 			echo "<META HTTP-EQUIV='REFRESH' CONTENT=\"0;
-				URL='https://felipelima.com.br/'\">";
+				URL='https://dsinstalacoeseletricas.com.br/'\">";
 	}
 	else
 	{
@@ -129,13 +129,13 @@ if ( isset( $_POST['envia'] ) && $_POST['envia'] == 'ok' )
 			  </html>';
 
 			echo "<META HTTP-EQUIV='REFRESH' CONTENT=\"0;
-				URL='https://felipelima.com.br/#contact'\">";
+				URL='https://dsinstalacoeseletricas.com.br/contact'\">";
 	}
 
 }
 else
 {
 	echo "<META HTTP-EQUIV='REFRESH' CONTENT=\"0;
-		URL='https://felipelima.com.br/'\">";
+		URL='https://dsinstalacoeseletricas.com.br/'\">";
 
 }
