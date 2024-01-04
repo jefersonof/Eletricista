@@ -49,7 +49,7 @@ if ( isset( $_POST['envia'] ) && $_POST['envia'] == 'ok' )
 	function enviaEmail($nome,$de,$para,$mensagem,$assunto)
 	{
 		$headers= "From: $nome <$de>\n";
-		$headers .= "Content-Type: text/html; charset=iso-8859-1\n";
+		$headers .= "Content-Type: text/html; charset=utf-8\n";
 		$headers .= "MIME-Version: 1.0\r\n";
 		$headers .= "X-Priority: 1\r \n";
 
@@ -82,11 +82,11 @@ if ( isset( $_POST['envia'] ) && $_POST['envia'] == 'ok' )
 	$assunto  = 'Contato pela página: '.$pagina;
 
 
-	$nome 	  = filter_var($_POST['nome'], FILTER_SANITIZE_STRING);
+	$nome 	  = mb_convert_encoding(filter_var($_POST['nome'], FILTER_SANITIZE_STRING),'UTF-8');
 	$email 	  = filter_var($_POST['email'], FILTER_SANITIZE_EMAIL);
 	$telefone = filter_var($_POST['telefone'], FILTER_SANITIZE_STRING);
 	//$assunto  = filter_var($_POST['assunto'], FILTER_SANITIZE_STRING);
-	$msg	  = filter_var($_POST['msg'], FILTER_SANITIZE_STRING);
+	$msg	  = mb_convert_encoding(filter_var($_POST['msg'], FILTER_SANITIZE_STRING),'UTF-8');
 
 
 
@@ -112,7 +112,7 @@ if ( isset( $_POST['envia'] ) && $_POST['envia'] == 'ok' )
 		echo '<html>
 				<head><title>Sucesso</title></head>
 					<body>
-					<script>alert("Sua mensagem foi enviada.\nRetorno em breve!\nObrigado.")</script>
+					<script>alert("Sua mensagem foi enviada.\nRetornamos em breve!\nObrigado.")</script>
 					</body>
 			  </html>';
 
