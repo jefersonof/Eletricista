@@ -67,7 +67,7 @@ if ( isset( $_POST['envia'] ) && $_POST['envia'] == 'ok' )
 	}
 
 	// pega a pagina de onde enviou o contato - pra isso tem que ter um campo hidden com o name="pagina" e value com o nome da pagina
-	// ex: <input type="hidden" name="pagina" value="Pagina de contato" />
+	// ex: <input type="hidden" name="pagina" value="Página de contato" />
 	if ( !isset( $_POST['pagina'] ) || empty( $_POST['pagina'] ) )
 	{
 		$pagina = "Desconhecida";
@@ -129,7 +129,7 @@ if ( isset( $_POST['envia'] ) && $_POST['envia'] == 'ok' )
 			  </html>';
 
 			echo "<META HTTP-EQUIV='REFRESH' CONTENT=\"0;
-				URL='https://dsinstalacoeseletricas.com.br/contact.html'\">";
+				URL='https://dsinstalacoeseletricas.com.br/contato.html'\">";
 	}
 
 }
