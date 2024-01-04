@@ -48,10 +48,10 @@ if ( isset( $_POST['envia'] ) && $_POST['envia'] == 'ok' )
 
 	function enviaEmail($nome,$de,$para,$mensagem,$assunto)
 	{
-		$headers= "From: $nome <$de>\n";
-		$headers .= "Content-Type: text/html; charset=utf-8\n";
+		$headers= "From: $nome <$de>\r\n";
+		$headers .= "Content-Type: text/html; charset=UTF-8\r\b";
 		$headers .= "MIME-Version: 1.0\r\n";
-		$headers .= "X-Priority: 1\r \n";
+		$headers .= "X-Priority: 1\r\n";
 
 		$manda = mail($para, $assunto, $mensagem, $headers);
 
