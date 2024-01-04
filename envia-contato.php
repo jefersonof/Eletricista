@@ -53,7 +53,7 @@ if ( isset( $_POST['envia'] ) && $_POST['envia'] == 'ok' )
 		$headers .= "MIME-Version: 1.0\r\n";
 		$headers .= "X-Priority: 1\r \n";
 
-		$manda = mail($para, $assunto, $mensagem, $headers);
+		$manda = mb_send_mail($para, $assunto, $mensagem, $headers);
 
 		if ( !$manda )
 		{
@@ -82,11 +82,11 @@ if ( isset( $_POST['envia'] ) && $_POST['envia'] == 'ok' )
 	$assunto  = 'Contato pela página: '.$pagina;
 
 
-	$nome 	  = mb_convert_encoding(filter_var($_POST['nome'], FILTER_SANITIZE_STRING),'UTF-8');
+	$nome 	  = filter_var($_POST['nome'], FILTER_SANITIZE_STRING);
 	$email 	  = filter_var($_POST['email'], FILTER_SANITIZE_EMAIL);
 	$telefone = filter_var($_POST['telefone'], FILTER_SANITIZE_STRING);
 	//$assunto  = filter_var($_POST['assunto'], FILTER_SANITIZE_STRING);
-	$msg	  = mb_convert_encoding(filter_var($_POST['msg'], FILTER_SANITIZE_STRING),'UTF-8');
+	$msg	  = filter_var($_POST['msg'], FILTER_SANITIZE_STRING);
 
 
 
