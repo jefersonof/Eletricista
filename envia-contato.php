@@ -1,6 +1,6 @@
 <?php
 /* Codificação UTF-8 */
-header("Content-type: text/html; charset=utf-8");
+header("Content-type: text/html; charset=iso-8859-1");
 
 // testa se existe o "envia" hidden, pra seguranca - tem que ter no form na pagina um campo hidden com name envia e valor ok
 // ex: <input type="hidden" name="envia" value="ok" />
