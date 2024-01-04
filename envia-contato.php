@@ -1,6 +1,4 @@
 <?php
-/* Codificação UTF-8 */
-header("Content-type: text/html; charset=iso-8859-1");
 
 // testa se existe o "envia" hidden, pra seguranca - tem que ter no form na pagina um campo hidden com name envia e valor ok
 // ex: <input type="hidden" name="envia" value="ok" />
@@ -51,7 +49,7 @@ if ( isset( $_POST['envia'] ) && $_POST['envia'] == 'ok' )
 	function enviaEmail($nome,$de,$para,$mensagem,$assunto)
 	{
 		$headers= "From: $nome <$de>\n";
-		$headers .= "Content-Type: text/html; charset=utf-8\n";
+		$headers .= "Content-Type: text/html; charset=iso-8859-1\n";
 		$headers .= "MIME-Version: 1.0\r\n";
 		$headers .= "X-Priority: 1\r \n";
 
