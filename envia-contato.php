@@ -53,7 +53,7 @@ if ( isset( $_POST['envia'] ) && $_POST['envia'] == 'ok' )
 		$headers .= "MIME-Version: 1.0\r\n";
 		$headers .= "X-Priority: 1\r \n";
 
-		$manda = mb_send_mail($para, $assunto, $mensagem, $headers);
+		$manda = mail($para, $assunto, $mensagem, $headers);
 
 		if ( !$manda )
 		{
