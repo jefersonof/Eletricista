@@ -62,7 +62,7 @@
                                         <h4 class="tt-block-title c-h3">Montagem Padrão Celesc</h4>
                                         <p class="lead">Conto com mais de 20 anos de experiência prática no campo da eletricidade, com ênfase na montagem de padrão CELESC.</p>
                                         <p class="lead"> Nosso compromisso é proporcionar tranquilidade aos nossos clientes, assegurando que todas as instalações sejam realizadas de maneira segura e eficaz.</p>
-                                        <p>Nossa dedicação à excelência é refletida na atenção meticulosa aos detalhes, na busca contínua por aprimoramento e na capacidade de superar desafios complexos. Estamos comprometidos em oferecer soluções elétricas de alta qualidade, priorizando a segurança e a satisfação dos clientes.</p>
+                                        <p class="lead">Nossa dedicação à excelência é refletida na atenção meticulosa aos detalhes, na busca contínua por aprimoramento e na capacidade de superar desafios complexos. Estamos comprometidos em oferecer soluções elétricas de alta qualidade, priorizando a segurança e a satisfação dos clientes.</p>
                                         <p>&nbsp;</p>
                                         <p>
                                             <div class="text-center">
