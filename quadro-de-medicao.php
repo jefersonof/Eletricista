@@ -24,7 +24,7 @@
     <link rel="shortcut icon" href="img/favicon-e.ico" />
     <title>Quadro de medição para casas e residências - DS Instalações Elétricas</title>
 
-    <meta name="keywords" content="quadro de medição padrão celesc, medição padrão celesc casa, medição padrão celesc residencia, quadro de medição padrão celesc, quadro de medição residencia, quadro de medição celesc" />
+    <meta name="keywords" content="quadro de medição no padrão da celesc, quadro de medição para casa no padrão da celesc, quadro de medição residencial no padrão da celesc, quadro de medição residencia" />
     <meta name="description" content="Quadro de medição no padrão CELESC para casas e residências em Florianópolis">
 </head>
 <body>
@@ -134,7 +134,7 @@
                     <div class="tt-banner-info">
                         <h4 class="tt-banner-title">24/7 Emergência ligue: <a href="tel:+5548998414008">(48) 99841-4008</a></h4>
                         <div class="simple-text size-3 color-3">
-                            <p>Instalação e Manutenção | Projeto e Execução | Padrão CELESC</p>
+                            <p>Instalação e Manutenção | Projeto e Execução | Padrões de energia</p>
                         </div>
                     </div>
                     <div class="tt-banner-link">

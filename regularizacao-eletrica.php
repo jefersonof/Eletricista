@@ -24,8 +24,8 @@
     <link rel="shortcut icon" href="img/favicon-e.ico" />
     <title>Regularização elétrica - DS Instalações Elétricas</title>
 
-    <meta name="keywords" content="regularização elétrica, regularização elétrica celesc, regular energia celesc, arrumar padrão celesc, eletricista padrão celesc, resolver problema com a celesc" />
-    <meta name="description" content="Regularização elétrica no padrão CELESC em Florianópolis">
+    <meta name="keywords" content="regularização elétrica, regularização elétrica para padrão celesc, regularizar energia para padrão celesc, arrumar no padrão da celesc, eletricista no padrão da celesc" />
+    <meta name="description" content="Regularização elétrica no padrão da CELESC em Florianópolis">
 </head>
 <body>
 
@@ -60,7 +60,7 @@
                                 <div class="col-sm-9">
                                     <div class="simple-text">
                                         <h4 class="tt-block-title c-h3">Regularização elétrica</h4>
-                                        <p class="lead">Nossa equipe é altamente experiente e dedicado, somos especializados em regularização elétrica. Com mais de 20 anos de atuação no mercado, adquirimos um vasto conhecimento técnico e prático na área elétrica, proporcionando soluções eficientes e seguras para os nossos clientes.</p>
+                                        <p class="lead">Se você está com problemas para fazer sua reguralização elétrica com a concessionária de energia, temos uma equipe de eletricistas altamente experiente e qualificada, especializados em regularização de energia. Com mais de 20 anos de atuação no mercado, adquirimos um vasto conhecimento técnico e prático na área elétrica, proporcionando soluções eficientes e seguras para os nossos clientes.</p>
                                         <p class="lead">Nosso prioridade é garantir a segurança dos nossos clientes e suas propriedades. Adotamos práticas seguras durante todas as fases do trabalho, utilizando ferramentas e equipamentos de alta qualidade.</p>
                                         <p>&nbsp;</p>
                                         <p>
@@ -133,7 +133,7 @@
                     <div class="tt-banner-info">
                         <h4 class="tt-banner-title">24/7 Emergência ligue: <a href="tel:+5548998414008">(48) 99841-4008</a></h4>
                         <div class="simple-text size-3 color-3">
-                            <p>Instalação e Manutenção | Projeto e Execução | Padrão CELESC</p>
+                            <p>Instalação e Manutenção | Projeto e Execução | Padrões de energia</p>
                         </div>
                     </div>
                     <div class="tt-banner-link">

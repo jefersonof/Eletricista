@@ -22,10 +22,10 @@
     <link href="css/style.css?v=2" rel="stylesheet" type="text/css" />
 
     <link rel="shortcut icon" href="img/favicon-e.ico" />
-    <title>Instalação de Poste CELESC - DS Instalações Elétricas</title>
+    <title>Montagem de padrão de energia - DS Instalações Elétricas</title>
 
-    <meta name="keywords" content="poste da celesc, instalação de poste celesc, eletricista residencial, eletricista casa" />
-    <meta name="description" content="Instalação de poste da CELESC para casas e residências em Florianópolis">
+    <meta name="keywords" content="padrão de energia da celesc, montagem de energia no padrão da celesc, eletricista padrão celesc, eletricidade padrão celesc" />
+    <meta name="description" content="Instalações elétricas no padrão da CELESC para casas e residências em Florianópolis">
 </head>
 <body>
 
@@ -36,7 +36,7 @@
         <!-- TT-PAGELABEL -->
         <div class="tt-pagelabel background-block" style="background-image:url(img/breadcrumbs/breadcrumbs.jpg);">
             <div class="container">
-                <h1 class="tt-pagelabel-title">Instalação de Poste CELESC</h1>
+                <h1 class="tt-pagelabel-title">Montagem padrão</h1>
             </div>
         </div>
 
@@ -45,7 +45,7 @@
             <div class="container">
                 <ul class="tt-breadcrumbs">
                     <li><a href="index.html">Home</a></li>
-                    <li><span>Instalação de poste</span></li>
+                    <li><span>Montagem padrão</span></li>
                 </ul>
             </div>
         </div>
@@ -59,22 +59,23 @@
                             <div class="row">
                                 <div class="col-sm-9">
                                     <div class="simple-text">
-                                        <h4 class="tt-block-title c-h3">Instalação de poste</h4>
-                                        <p class="lead">Nossa equipe é altamente qualificada e experiente no ramo elétrico, somos especializados na instalação de postes padrão Celesc. Com uma trajetória consolidada, estamos comprometidos em oferecer serviços de excelência, garantindo segurança, eficiência e conformidade com as normas técnicas mais rigorosas.</p>
-                                        <p class="lead"> Priorizando a segurança em cada operação, a empresa investe em treinamento contínuo para sua equipe, implementa protocolos rigorosos e adere estritamente às normas regulatórias do setor elétrico.</p>
+                                        <h4 class="tt-block-title c-h3">Montagem Padrão</h4>
+                                        <p class="lead">Contamos com mais de 20 anos de experiência prática no campo da eletricidade, com ênfase na montagem de padrão das concessionárias de energia.</p>
+                                        <p class="lead"> Nosso compromisso é fazer a sua casa, condomínio ou comércio ser aprovado para ligação elétrica padrão e proporcionar tranquilidade aos nossos clientes, assegurando que todas as instalações sejam realizadas de maneira segura e eficaz.</p>
+                                        <p class="lead">Nossa dedicação à excelência é refletida na atenção meticulosa aos detalhes, na busca contínua por aprimoramento e na capacidade de superar desafios complexos. Estamos comprometidos em oferecer soluções elétricas de alta qualidade, priorizando a segurança e a satisfação dos clientes.</p>
                                         <p>&nbsp;</p>
                                         <p>
                                             <div class="text-center">
-                                                <a class="c-btn type-1 size-2 font-2 color-3" href="https://wa.me/5548998414008?text=Olá! Vim pelo site e gostaria de mais informações sobre instalação de poste padrão CELESC" target="_blank" rel="nofollow noopener noreferrer"><span><i class="fa fa-whatsapp" aria-hidden="true"></i> Chame o eletricista agora pelo Whatsapp</span></a>
+                                                <a class="c-btn type-1 size-2 font-2 color-3" href="https://wa.me/5548998414008?text=Olá! Vim pelo site e gostaria de mais informações sobre montagem de padrão de energia" target="_blank" rel="nofollow noopener noreferrer"><span><i class="fa fa-whatsapp" aria-hidden="true"></i> Chame o eletricista agora pelo Whatsapp</span></a>
                                             </div>
                                         </p>
                                     </div>
                                 </div>
                                 <div class="empty-space marg-xs-b30"></div>
                                 <div class="col-sm-3">
-                                    <img src="img/service-detail/troca-de-poste.jpg" height="205" width="270" alt="">
+                                    <img src="img/service-detail/montagem-padrao-celesc.jpg" height="205" width="270" alt="">
                                     <div class="empty-space marg-lg-b30"></div>
-                                    <img src="img/service-detail/troca-de-poste2.jpg" height="205" width="270" alt="">
+                                    <img src="img/service-detail/montagem-padrao-celesc2.jpg" height="205" width="270" alt="">
                                 </div>
                             </div>
                             <div class="empty-space marg-sm-b30"></div>
@@ -115,7 +116,7 @@
                                         <div class="c-btn type-1 size-3 font-3 color-4">
                                             <input type="submit" value="Enviar">
                                             <input type="hidden" name="envia" value="ok">
-                                            <input type="hidden" name="pagina" value="Página instalação de poste">
+                                            <input type="hidden" name="pagina" value="Página padrão de energia">
                                         </div>
                                         <span class="tt-request-success"></span>                     
                                     </form>
@@ -133,7 +134,7 @@
                     <div class="tt-banner-info">
                         <h4 class="tt-banner-title">24/7 Emergência ligue: <a href="tel:+5548998414008">(48) 99841-4008</a></h4>
                         <div class="simple-text size-3 color-3">
-                            <p>Instalação e Manutenção | Projeto e Execução | Padrão CELESC</p>
+                            <p>Instalação e Manutenção | Projeto e Execução | Padrões de energia</p>
                         </div>
                     </div>
                     <div class="tt-banner-link">

@@ -24,8 +24,8 @@
     <link rel="shortcut icon" href="img/favicon-e.ico" />
     <title>Quadro de medição para prédios e condomínios - DS Instalações Elétricas</title>
 
-    <meta name="keywords" content="medição padrão celesc, medição padrão celesc condomínio, medição padrão celesc predial, quadro de medição padrão celesc, quadro de medição condomínio, quadro de medição predial" />
-    <meta name="description" content="Quadro de medição no padrão CELESC para prédios e condomínios em Florianópolis">
+    <meta name="keywords" content="quadro de medição no padrão celesc, quadro de medição para condominio no padrão celesc, quadro de medição predial no padrão celesc, quadro de medição condomínio, quadro de medição predial" />
+    <meta name="description" content="Quadro de medição no padrão da CELESC para prédios e condomínios em Florianópolis">
 </head>
 <body>
 
@@ -36,7 +36,7 @@
         <!-- TT-PAGELABEL -->
         <div class="tt-pagelabel background-block" style="background-image:url(img/breadcrumbs/breadcrumbs.jpg);">
             <div class="container">
-                <h1 class="tt-pagelabel-title">Quadro de medição padrão CELESC</h1>
+                <h1 class="tt-pagelabel-title">Quadro de medição padrão</h1>
             </div>
         </div>
 
@@ -134,7 +134,7 @@
                     <div class="tt-banner-info">
                         <h4 class="tt-banner-title">24/7 Emergência ligue: <a href="tel:+5548998414008">(48) 99841-4008</a></h4>
                         <div class="simple-text size-3 color-3">
-                            <p>Instalação e Manutenção | Projeto e Execução | Padrão CELESC</p>
+                            <p>Instalação e Manutenção | Projeto e Execução | Padrões de energia</p>
                         </div>
                     </div>
                     <div class="tt-banner-link">

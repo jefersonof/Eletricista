@@ -22,10 +22,10 @@
     <link href="css/style.css?v=2" rel="stylesheet" type="text/css" />
 
     <link rel="shortcut icon" href="img/favicon-e.ico" />
-    <title>Troca de poste da CELESC - DS Instalações Elétricas</title>
+    <title>Instalação de Kit de Poste no Padrão da CELESC - DS Instalações Elétricas</title>
 
-    <meta name="keywords" content="troca de poste celesc, poste da celesc novo, arrumar poste celesc" />
-    <meta name="description" content="Troca de poste no padrão CELESC em Florianópolis">
+    <meta name="keywords" content="poste no padrão da celesc, instalação de poste padrão celesc, eletricista residencial, eletricista casa" />
+    <meta name="description" content="Instalação de kit de poste no padrão da CELESC e outras concessionárias de energia para casas e residências em Florianópolis">
 </head>
 <body>
 
@@ -36,7 +36,7 @@
         <!-- TT-PAGELABEL -->
         <div class="tt-pagelabel background-block" style="background-image:url(img/breadcrumbs/breadcrumbs.jpg);">
             <div class="container">
-                <h1 class="tt-pagelabel-title">Troca de poste padrão CELESC</h1>
+                <h1 class="tt-pagelabel-title">Instalação de Kit Padrão de Poste</h1>
             </div>
         </div>
 
@@ -45,7 +45,7 @@
             <div class="container">
                 <ul class="tt-breadcrumbs">
                     <li><a href="index.html">Home</a></li>
-                    <li><span>Troca de poste</span></li>
+                    <li><span>Instalação de Kit Padrão de Poste</span></li>
                 </ul>
             </div>
         </div>
@@ -59,16 +59,15 @@
                             <div class="row">
                                 <div class="col-sm-9">
                                     <div class="simple-text">
-                                        <h4 class="tt-block-title c-h3">Troca de poste</h4>
-                                        <p class="lead">Nossa equipe é altamente qualificada e experiente no ramo elétrico, somos especializados na troca de postes padrão Celesc. Com uma trajetória consolidada, estamos comprometidos em oferecer serviços de excelência, garantindo segurança, eficiência e conformidade com as normas técnicas mais rigorosas.</p>
+                                        <h4 class="tt-block-title c-h3">Kit Padrão de Poste</h4>
+                                        <p class="lead">A DS Instalações Elétricas trabalha há muitos anos instalando kits de postes nos padrões da CELESC e outras concessionárias de energia. Somos altamente qualificados e experientes no ramo elétrico, especializados na instalação de kit de postes no padrão. Segurança, eficiência e conformidade com as normas técnicas mais rigorosas das concessionárias de energia.</p>
                                         <p class="lead"> Priorizando a segurança em cada operação, a empresa investe em treinamento contínuo para sua equipe, implementa protocolos rigorosos e adere estritamente às normas regulatórias do setor elétrico.</p>
                                         <p>&nbsp;</p>
                                         <p>
                                             <div class="text-center">
-                                                <a class="c-btn type-1 size-2 font-2 color-3" href="https://wa.me/5548998414008?text=Olá! Vim pelo site e gostaria de mais informações sobre troca de poste CELESC" target="_blank" rel="nofollow noopener noreferrer"><span><i class="fa fa-whatsapp" aria-hidden="true"></i> Chame o eletricista agora pelo Whatsapp</span></a>
+                                                <a class="c-btn type-1 size-2 font-2 color-3" href="https://wa.me/5548998414008?text=Olá! Vim pelo site e gostaria de mais informações sobre instalação de kit de poste padrão" target="_blank" rel="nofollow noopener noreferrer"><span><i class="fa fa-whatsapp" aria-hidden="true"></i> Chame o eletricista agora pelo Whatsapp</span></a>
                                             </div>
                                         </p>
-                                        
                                     </div>
                                 </div>
                                 <div class="empty-space marg-xs-b30"></div>
@@ -83,7 +82,7 @@
                     </div>
                 </div>
                 <div class="empty-space marg-lg-b50 marg-md-b50 marg-xs-30"></div>
-                
+
                 <div class="bg-2">
                     <div class="tt-two-blocks">
                         <div class="container">
@@ -116,7 +115,7 @@
                                         <div class="c-btn type-1 size-3 font-3 color-4">
                                             <input type="submit" value="Enviar">
                                             <input type="hidden" name="envia" value="ok">
-                                            <input type="hidden" name="pagina" value="Página troca de poste">
+                                            <input type="hidden" name="pagina" value="Página instalação de poste">
                                         </div>
                                         <span class="tt-request-success"></span>                     
                                     </form>
@@ -127,13 +126,14 @@
                     </div>
                 </div>
                 <div class="empty-space marg-lg-b50 marg-md-b50 marg-xs-30"></div>
+
                 <!-- TT-BANNER  -->
                 <div class="tt-banner">
                     <img class="tt-banner-img" src="img/banner/banner.png" height="134" width="144" alt="">
                     <div class="tt-banner-info">
                         <h4 class="tt-banner-title">24/7 Emergência ligue: <a href="tel:+5548998414008">(48) 99841-4008</a></h4>
                         <div class="simple-text size-3 color-3">
-                            <p>Instalação e Manutenção | Projeto e Execução | Padrão CELESC</p>
+                            <p>Instalação e Manutenção | Projeto e Execução | Padrões de energia</p>
                         </div>
                     </div>
                     <div class="tt-banner-link">

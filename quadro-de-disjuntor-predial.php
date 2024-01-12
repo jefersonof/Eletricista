@@ -24,8 +24,8 @@
     <link rel="shortcut icon" href="img/favicon-e.ico" />
     <title>Quadro de disjuntor para prédios e condomínios - DS Instalações Elétricas</title>
 
-    <meta name="keywords" content="disjuntor padrão celesc, disjuntor padrão celesc condomínio, disjuntor padrão celesc predial, quadro de disjuntor padrão celesc, quadro de disjuntor condomínio, quadro de disjuntor predial" />
-    <meta name="description" content="Quadro de disjuntor no padrão CELESC para prédios e condomínios em Florianópolis">
+    <meta name="keywords" content="disjuntor no padrão da celesc, disjuntor no padrão da celesc para condomínio, disjuntor predial no padrão da celesc, quadro de disjuntor no padrão da celesc, quadro de disjuntor condomínio, quadro de disjuntor predial" />
+    <meta name="description" content="Quadro de disjuntor no padrão da CELESC para prédios e condomínios em Florianópolis">
 </head>
 <body>
 
@@ -36,7 +36,7 @@
         <!-- TT-PAGELABEL -->
         <div class="tt-pagelabel background-block" style="background-image:url(img/breadcrumbs/breadcrumbs.jpg);">
             <div class="container">
-                <h1 class="tt-pagelabel-title">Quadro de disjuntor padrão CELESC</h1>
+                <h1 class="tt-pagelabel-title">Quadro de disjuntor padrão</h1>
             </div>
         </div>
 
@@ -134,7 +134,7 @@
                     <div class="tt-banner-info">
                         <h4 class="tt-banner-title">24/7 Emergência ligue: <a href="tel:+5548998414008">(48) 99841-4008</a></h4>
                         <div class="simple-text size-3 color-3">
-                            <p>Instalação e Manutenção | Projeto e Execução | Padrão CELESC</p>
+                            <p>Instalação e Manutenção | Projeto e Execução | Padrões de energia</p>
                         </div>
                     </div>
                     <div class="tt-banner-link">

@@ -27,7 +27,7 @@
     <link rel="shortcut icon" href="img/favicon-e.ico" />
   	<title>DS Instalações Elétricas</title>
 
-    <meta name="keywords" content="eletricista, eletricista em florianópolis, poste celesc, instalação poste celesc, eletricista residencial, eletricista industrial, eletricista predial, eletricista 24h, eletricista condomínio, quadro de disjuntor" />
+    <meta name="keywords" content="eletricista, eletricista em florianópolis, poste no padrão celesc, instalação poste padrão  celesc, eletricista residencial, eletricista industrial, eletricista predial, eletricista 24h, eletricista condomínio, quadro de disjuntor" />
     <meta name="description" content="Seu eletricista em Florianópolis">
 </head>
 <body>
@@ -51,8 +51,8 @@
                             data-transform_in="o:0" 
                             data-transform_out="o:0" 
                             data-start="500">                        
-                            Instalação de poste<br>
-                            <span>Padrão Celesc</span>
+                            Instalação de Kit<br>
+                            <span>Poste Padrão</span>
                         </h1>                       
 
                         <div class="tp-caption sfb tp-resizeme simple-text size-5 color-6 font-5"
@@ -63,7 +63,7 @@
                             data-transform_in="o:0" 
                             data-transform_out="o:0" 
                             data-start="1000"> 
-                            <p>Mais de 20 anos de experiência em<br> instalações elétricas nos <i>padrões CELESC</i></p>
+                            <p>Mais de 20 anos de experiência em<br> instalações elétricas nos <i>padrões CELESC</i><br>e outras concessionárias de energia</p>
                         </div>
 
                         <a class="tp-caption sfr tp-resizeme c-btn type-1 color-7" href="https://wa.me/5548998414008?text=Olá! Vim pelo site e gostaria de mais informações" 
@@ -213,7 +213,7 @@
                 <div class="col-sm-6">
                     <div class="simple-text">
                         <h3>DS Instalações Elétricas</h3>
-                        <p>A empresa <i><b>DS Instalações Elétricas</b></i>  é uma referência no setor, acumulando mais de 20 anos de experiência em instalação e manutenção elétrica, troca de poste padrão Celesc, iluminação de jardim entre outros serviços elétricos.</p><p>Nosso compromisso é oferecer serviços de alta qualidade, segurança e eficiência, contribuindo para a confiabilidade e excelência no fornecimento de energia elétrica.</p><p>Contamos com uma equipe capacitada e tecnologia avançada para atender às demandas específicas, garantindo a satisfação de nossos clientes e a integridade do sistema elétrico. </p> <p>Cada projeto é conduzido em conformidade com as normas e regulamentações elétricas vigentes, garantindo que o seu lar seja um ambiente seguro e protegido. </p>                
+                        <p>A empresa <i><b>DS Instalações Elétricas</b></i>  é uma referência no setor, acumulando mais de 20 anos de experiência em instalação e manutenção elétrica, troca de kit de poste padrão Celesc e outras concessionárias de energia, iluminação de jardim entre outros serviços elétricos.</p><p>Nosso compromisso é oferecer serviços de alta qualidade, segurança e eficiência, contribuindo para a confiabilidade e excelência no fornecimento de energia elétrica.</p><p>Contamos com uma equipe capacitada e tecnologia avançada para atender às demandas específicas, garantindo a satisfação de nossos clientes e a integridade do sistema elétrico. </p> <p>Cada projeto é conduzido em conformidade com as normas e regulamentações elétricas vigentes, garantindo que o seu lar seja um ambiente seguro e protegido. </p>                
                     </div>
                     <!-- PASSA DO LAYOUT DA PAGINA -->
                     <!--<div class="empty-space marg-lg-b30"></div>
@@ -228,29 +228,29 @@
                 </div>
                 <div class="col-sm-6">
                     <div class="tt-commercial clearfix">
-                        <a class="tt-commercial-img custom-hover" href="iluminacao-de-piscina.html">
+                        <a class="tt-commercial-img custom-hover" href="iluminacao-de-piscina.php">
                             <img class="img-responsive" src="img/commercial/iluminacao-piscina.jpg" alt="Iluminação de Piscinas">
                         </a>
                         <div class="tt-commercial-info">
-                            <a class="tt-commercial-title" href="iluminacao-de-piscina.html">Iluminação de piscina</a>
+                            <a class="tt-commercial-title" href="iluminacao-de-piscina.php">Iluminação de piscina</a>
                             <div class="simple-text">
                                 <p>Contamos com uma equipe especializada em iluminação de piscinas residenciais e condomínios.</p>
                             </div>
-                            <a class="c-btn type-2" href="iluminacao-de-piscina.html">Leia mais</a>
+                            <a class="c-btn type-2" href="iluminacao-de-piscina.php">Leia mais</a>
                         </div>
                     </div>
                     <div class="empty-space marg-lg-b30"></div>
 
                     <div class="tt-commercial clearfix">
-                        <a class="tt-commercial-img custom-hover" href="iluminacao-de-jardim.html">
+                        <a class="tt-commercial-img custom-hover" href="iluminacao-de-jardim.php">
                             <img class="img-responsive" src="img/commercial/iluminacao-jardim.jpg" height="161" width="270" alt="">
                         </a>
                         <div class="tt-commercial-info">
-                            <a class="tt-commercial-title" href="iluminacao-de-jardim.html">Iluminação de jardim</a>
+                            <a class="tt-commercial-title" href="iluminacao-de-jardim.php">Iluminação de jardim</a>
                             <div class="simple-text">
                                 <p>Expertise em iluminação de jardins residenciais e prediais. Com vasta experiência no setor, ofereçemos soluções personalizadas!</p>
                             </div>
-                            <a class="c-btn type-2" href="iluminacao-de-jardim.html">Leia mais</a>
+                            <a class="c-btn type-2" href="iluminacao-de-jardim.php">Leia mais</a>
                         </div>
                     </div>                    
                 </div>
@@ -322,9 +322,9 @@
                             <img src="img/service/service_7.png" height="70" width="54" alt="">
                         </div>
                         <div class="tt-service-4-info">
-                            <a class="tt-service-4-title" href="regularizacao-eletrica.html">Regularização de energia</a>
+                            <a class="tt-service-4-title" href="regularizacao-eletrica.php">Regularização de energia</a>
                             <div class="simple-text color-5">
-                                <p>Projetos padrão CELESC. <br>Do orçamento até aprovação.</p>
+                                <p>Projetos no padrão. <br>Do orçamento até aprovação.</p>
                             </div>
                         </div>
                     </div>
@@ -336,9 +336,9 @@
                             <img src="img/service/service_8.png" height="70" width="54" alt="">
                         </div>
                         <div class="tt-service-4-info">
-                            <a class="tt-service-4-title" href="instalacao-de-poste-celesc.html">Poste padrão CELESC</a>
+                            <a class="tt-service-4-title" href="instalacao-de-kit-de-poste-padrao.php">Kit de Poste padrão</a>
                             <div class="simple-text color-5">
-                                <p>Instalação e troca de poste padrão CELESC.</p>
+                                <p>Instalação e troca de kit de poste padrão.</p>
                             </div>
                         </div>
                     </div>
@@ -350,7 +350,7 @@
                             <img src="img/service/service_9.png" height="70" width="54" alt="">
                         </div>
                         <div class="tt-service-4-info">
-                            <a class="tt-service-4-title" href="quadro-de-disjuntor.html">Quadro de disjuntor</a>
+                            <a class="tt-service-4-title" href="quadro-de-disjuntor.php">Quadro de disjuntor</a>
                             <div class="simple-text color-5">
                                 <p>Instalação e manutenção de quadros de disjuntores.</p>
                             </div>
@@ -366,7 +366,7 @@
                             <img src="img/service/service_10.png" height="70" width="54" alt="">
                         </div>
                         <div class="tt-service-4-info">
-                            <a class="tt-service-4-title" href="instalacao-eletrica-residencial.html">Instalações elétricas</a>
+                            <a class="tt-service-4-title" href="instalacao-eletrica-residencial.php">Instalações elétricas</a>
                             <div class="simple-text color-5">
                                 <p>Serviços elétricos do simples ao complexo. Orçamento gratuito!</p>
                             </div>
@@ -380,7 +380,7 @@
                             <img src="img/service/service_11.png" height="70" width="54" alt="">
                         </div>
                         <div class="tt-service-4-info">
-                            <a class="tt-service-4-title" href="quadro-de-medicao.html">Quadro de medição</a>
+                            <a class="tt-service-4-title" href="quadro-de-medicao.php">Quadro de medição</a>
                             <div class="simple-text color-5">
                                 <p>Assegure precisão e segurança nas medições elétricas.</p>
                             </div>
@@ -394,7 +394,7 @@
                             <img src="img/service/service_12.png" height="70" width="54" alt="">
                         </div>
                         <div class="tt-service-4-info">
-                            <a class="tt-service-4-title" href="melhoria-eletrica.html">Melhoria elétrica</a>
+                            <a class="tt-service-4-title" href="melhoria-eletrica.php">Melhoria elétrica</a>
                             <div class="simple-text color-5">
                                 <p>Melhoria de carga elétrica para maior eficiência de energia.</p>
                             </div>
@@ -419,11 +419,11 @@
                                 <img src="img/service/service_13.png" height="107" width="107" alt="">
                             </div>
                             <div class="tt-service-info">
-                                <a class="tt-service-title c-h5" href="padrao-celesc.html">Montagem padrão CELESC</a>
+                                <a class="tt-service-title c-h5" href="padrao-de-energia.php">Montagem elétrica padrão</a>
                                 <div class="simple-text">
-                                    <p>Mais de 20 anos de experiência, qualidade, segurança e eficiência em montagem de padrão CELESC. Está com problemas para regularizar ou aprovar sua montagem elétrica? Vamos resolver pra você!</p>
+                                    <p>Mais de 20 anos de experiência, qualidade, segurança e eficiência em montagem de padrão de energia. Está com problemas para regularizar ou aprovar sua montagem elétrica? Resolvemos pra você!</p>
                                 </div>
-                                <a class="c-btn type-2 color-2" href="padrao-celesc.html">Leia mais</a>
+                                <a class="c-btn type-2 color-2" href="padrao-de-energia.php">Leia mais</a>
                             </div>
                         </div>
                         <div class="empty-space marg-sm-b30"></div>
@@ -434,11 +434,11 @@
                                 <img src="img/service/service_14.png" height="107" width="107" alt="">
                             </div>
                             <div class="tt-service-info">
-                                <a class="tt-service-title c-h5" href="instalacao-de-poste-celesc.html">Instalação de poste Celesc</a>
+                                <a class="tt-service-title c-h5" href="instalacao-de-kit-de-poste-padrao.php">Kit de poste padrão</a>
                                 <div class="simple-text">
-                                    <p>Especialista em instalação e troca de postes no padrão da CELESC. Quer ter certeza que o poste e instalações serão aprovados na primeira vistoria? Conte conosco para esta tarefa. Mais de 20 anos de experiência.</p>
+                                    <p>Instalação de kit de postes no padrão da CELESC e outras concessionárias de energia. Quer ter certeza que o poste e instalações serão aprovados? Conte conosco para esta tarefa. Mais de 20 anos de experiência.</p>
                                 </div>
-                                <a class="c-btn type-2 color-2" href="instalacao-de-poste-celesc.html">Leia mais</a>
+                                <a class="c-btn type-2 color-2" href="instalacao-de-kit-de-poste-padrao.php">Leia mais</a>
                             </div>
                         </div>
                         <div class="empty-space marg-sm-b30"></div>
@@ -449,11 +449,11 @@
                                 <img src="img/service/service_15.png" height="107" width="107" alt="">
                             </div>
                             <div class="tt-service-info">
-                                <a class="tt-service-title c-h5" href="quadro-de-disjuntor-predial.html">Quadro de disjuntores predial</a>
+                                <a class="tt-service-title c-h5" href="quadro-de-disjuntor-predial.php">Quadro de disjuntores predial</a>
                                 <div class="simple-text">
                                     <p>Execução de projetos de grande porte para vários condomínios em Florianópolis. Padronize com segurança, garantindo eficiência energética, economizando tempo e recursos sem perder qualidade.</p>
                                 </div>
-                                <a class="c-btn type-2 color-2" href="quadro-de-disjuntor-predial.html">Leia mais</a>
+                                <a class="c-btn type-2 color-2" href="quadro-de-disjuntor-predial.php">Leia mais</a>
                             </div>
                         </div>
                     </div>                                        
@@ -475,7 +475,7 @@
                             <div class="tt-service-5-img">
                                 <img src="img/service/service_16.png" height="74" width="74" alt="">
                             </div>
-                            <a class="tt-service-5-title" href="contato.html">Disponibilidade 24/7</a>
+                            <a class="tt-service-5-title" href="contato.php">Disponibilidade 24/7</a>
                             <div class="simple-text size-3 color-5">
                                 <p>Serviços de emergência em qualquer dia e hora do ano.</p>
                             </div>
@@ -487,7 +487,7 @@
                             <div class="tt-service-5-img">
                                 <img src="img/service/service_17.png" height="74" width="74" alt="">
                             </div>
-                            <a class="tt-service-5-title" href="contato.html">Time dedicado</a>
+                            <a class="tt-service-5-title" href="contato.php">Time dedicado</a>
                             <div class="simple-text size-3 color-5">
                                 <p>Eficientes e competentes, trabalhos com segurança.</p>
                             </div>
@@ -499,7 +499,7 @@
                             <div class="tt-service-5-img">
                                 <img src="img/service/service_18.png" height="74" width="74" alt="">
                             </div>
-                            <a class="tt-service-5-title" href="contato.html">Satisfação garantida</a>
+                            <a class="tt-service-5-title" href="contato.php">Satisfação garantida</a>
                             <div class="simple-text size-3 color-5">
                                 <p>Garantimos a satisfação do orçamento à entrega do trabalho.</p>
                             </div>
@@ -511,7 +511,7 @@
                             <div class="tt-service-5-img">
                                 <img src="img/service/service_19.png" height="74" width="74" alt="">
                             </div>
-                            <a class="tt-service-5-title" href="contato.html">Orçamento gratuito</a>
+                            <a class="tt-service-5-title" href="contato.php">Orçamento gratuito</a>
                             <div class="simple-text size-3 color-5">
                                 <p>Para a grande maioria dos casos que não necessite deslocamento.</p>
                             </div>
@@ -526,7 +526,7 @@
                     <div class="tt-banner-info">
                         <h4 class="tt-banner-title">24/7 Emergência ligue: <a href="tel:+5548998414008">(48) 99841-4008</a></h4>
                         <div class="simple-text size-3 color-3">
-                            <p>Instalação e Manutenção | Projeto e Execução | Padrão CELESC</p>
+                            <p>Instalação e Manutenção | Projeto e Execução | Padrões de energia</p>
                         </div>
                     </div>
                     <div class="tt-banner-link">
