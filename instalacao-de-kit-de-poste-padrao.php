@@ -60,6 +60,7 @@
                                 <div class="col-sm-9">
                                     <div class="simple-text">
                                         <h4 class="tt-block-title c-h3">Kit Padrão de Poste</h4>
+                                        <p class="lead">Quando você tem, por exemplo, uma casa nova - e ainda não tem um kit de poste padrão instalado, você precisa comprar e instalar o poste interno da sua casa no padrão da CELESC ou de outra concessionária de energia para que a companhia elétrica ligue a luz do poste no seu poste residencial e assim você ter luz dentro de casa.</p>
                                         <p class="lead">A DS Instalações Elétricas trabalha há muitos anos instalando kits de postes nos padrões da CELESC e outras concessionárias de energia. Somos altamente qualificados e experientes no ramo elétrico, especializados na instalação de kit de postes no padrão. Segurança, eficiência e conformidade com as normas técnicas mais rigorosas das concessionárias de energia.</p>
                                         <p class="lead"> Priorizando a segurança em cada operação, a empresa investe em treinamento contínuo para sua equipe, implementa protocolos rigorosos e adere estritamente às normas regulatórias do setor elétrico.</p>
                                         <p>&nbsp;</p>
