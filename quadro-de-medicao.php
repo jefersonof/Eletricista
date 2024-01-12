@@ -36,7 +36,7 @@
         <!-- TT-PAGELABEL -->
         <div class="tt-pagelabel background-block" style="background-image:url(img/breadcrumbs/breadcrumbs.jpg);">
             <div class="container">
-                <h1 class="tt-pagelabel-title">Quadro de medição padrão CELESC</h1>
+                <h1 class="tt-pagelabel-title">Quadro de medição padrão</h1>
             </div>
         </div>
 
